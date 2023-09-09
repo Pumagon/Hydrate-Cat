@@ -19,7 +19,7 @@ interval = 60
 # kintone setup
 sdomain = "karube"
 appId = "18"
-token = "LhUsuPCdHA8l0Pzu8OT7I5h7S6Zg11p7BpEUeFfN"
+token = "XXXXXXXXXXXXXXXXXX"
 
 # SSD1306 (OLED) setup
 font = ImageFont.truetype('SourceHanSansJP-Medium.otf', 16)
